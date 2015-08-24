@@ -1,0 +1,1004 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stat",
+				"static_pages/home"
+			],
+			[
+				"user",
+				"user_timeline"
+			],
+			[
+				"tw",
+				"tweets"
+			],
+			[
+				"http",
+				"http://localhost:3000	(apis.yaml)"
+			],
+			[
+				"lic",
+				"license"
+			],
+			[
+				"doctor_and_patient",
+				"doctor_and_patient_appointment_path	(show.html.erb)"
+			],
+			[
+				"ap",
+				"appointment	(appointment.rb)"
+			],
+			[
+				"doctor",
+				"doctor_and_patient	(appointment.rb)"
+			],
+			[
+				"Docto",
+				"DoctorAndPatient"
+			],
+			[
+				"doctor_",
+				"doctor_and_patients_id"
+			],
+			[
+				"docto",
+				"doctor_and_patient	(appointment.rb)"
+			],
+			[
+				"doc",
+				"doctor_and_patient	(appointment.rb)"
+			],
+			[
+				"app",
+				"appointment"
+			],
+			[
+				"form",
+				"form_for	(show.html.erb)"
+			],
+			[
+				"appo",
+				"appointment	(index.html.erb)"
+			],
+			[
+				"new",
+				"new_appointment_path	(index.html.erb)"
+			],
+			[
+				"link",
+				"link_to	(index.html.erb)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"col-md-offset",
+				"col-md-offset-1"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ima",
+				"image_personal_datas	(personal_data.html.erb)"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"patient",
+				"patient_id"
+			],
+			[
+				"change",
+				"change_table"
+			],
+			[
+				"has",
+				"has_many"
+			],
+			[
+				"typ",
+				"type_of_user	(show.html.erb)"
+			],
+			[
+				"av",
+				"avatar_url	(show.html.erb)"
+			],
+			[
+				"cir",
+				"circle_image	(show.html.erb)"
+			],
+			[
+				"personal",
+				"personal_data"
+			],
+			[
+				"type",
+				"type_of_user"
+			],
+			[
+				"curren",
+				"current_user	(_navbar.html.erb)"
+			],
+			[
+				"ty",
+				"type_of_user"
+			],
+			[
+				"in",
+				"include	(patient.rb)"
+			],
+			[
+				"Pat",
+				"Patient"
+			],
+			[
+				"doct",
+				"doctor"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"btn",
+				"btn_search_doctor	(show.html.erb)"
+			],
+			[
+				"im",
+				"image_tag	(show.html.erb)"
+			],
+			[
+				"rails",
+				"rails_12factor"
+			],
+			[
+				"sto",
+				"storage	(avatar_uploader.rb)"
+			],
+			[
+				"is",
+				"is_a"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"ses",
+				"sessions"
+			],
+			[
+				"et",
+				"ethnicity	(medical_histories_controller.rb)"
+			],
+			[
+				"vali",
+				"validates"
+			],
+			[
+				"center",
+				"center_image	(index.html.erb)"
+			],
+			[
+				"opt",
+				"options_for_select"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"medi",
+				"medical_history	(medical_histories_controller.rb)"
+			],
+			[
+				"hi",
+				"high_blood_pressure_treatment"
+			],
+			[
+				"Med",
+				"MedicalHistory"
+			],
+			[
+				"medical",
+				"medical_history"
+			],
+			[
+				"dia",
+				"diabetes_in_family	(medical_history.html.erb)"
+			],
+			[
+				"mei",
+				"medical_history"
+			],
+			[
+				"med",
+				"medical_history"
+			],
+			[
+				"patien",
+				"patient_id"
+			],
+			[
+				"pat",
+				"patient"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"root",
+				"root_url"
+			],
+			[
+				"log",
+				"logout	(routes.rb)"
+			],
+			[
+				"redire",
+				"redirect_to	(doctors_controller.rb)"
+			],
+			[
+				"logg",
+				"logged_in?〔function〕"
+			],
+			[
+				"befo",
+				"before_action	(application_controller.rb)"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"find",
+				"find_by"
+			],
+			[
+				"list",
+				"list_food"
+			],
+			[
+				"up",
+				"update_csv"
+			],
+			[
+				"Model",
+				"Model〔class〕"
+			],
+			[
+				"ques",
+				"question_params〔function〕"
+			],
+			[
+				"que",
+				"questions"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"ret",
+				"return〔function〕"
+			],
+			[
+				"acct",
+				"acct_number"
+			],
+			[
+				"ra",
+				"raise_error"
+			],
+			[
+				"w",
+				"withdraw"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"jo",
+				"job_id"
+			],
+			[
+				"j",
+				"job_id"
+			],
+			[
+				"Twitter",
+				"TwitterUser"
+			],
+			[
+				"tweet",
+				"tweet"
+			],
+			[
+				"oa",
+				"oauth_token_secret"
+			],
+			[
+				"Tw",
+				"tweet"
+			],
+			[
+				"ou",
+				"oauth_token_secret"
+			],
+			[
+				"te",
+				"tweet"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"Twi",
+				"TwitterUser"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"oau",
+				"oauth_token"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"acce",
+				"access_token"
+			],
+			[
+				"T",
+				"Tweets"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"acc",
+				"access_token_secret"
+			],
+			[
+				"comment",
+				"comment_list"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"style",
+				"style_editor"
+			],
+			[
+				"rev",
+				"review_survey"
+			],
+			[
+				"cho",
+				"choice_1"
+			],
+			[
+				"choice",
+				"choice_1"
+			],
+			[
+				"us",
+				"user_surveys"
+			],
+			[
+				"choi",
+				"Choice"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"survey",
+				"survey_id"
+			],
+			[
+				"index",
+				"index_survey"
+			],
+			[
+				"inde",
+				"index_survey"
+			],
+			[
+				"su",
+				"surveys"
+			],
+			[
+				"ju",
+				"jugador_1"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"coun",
+				"count1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 688,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 181.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Santiago/Sublime/sample_app/app/helpers/application_helper.rb",
+		"/Users/Santiago/Sublime/sample_app/app/controllers/users_controller.rb",
+		"/Users/Santiago/Sublime/sample_app/test/integration/site_layout_test.rb",
+		"/Users/Santiago/Sublime/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/Santiago/Sublime/twitter.rb",
+		"/Users/Santiago/Sublime/sample_app/config/routes.rb",
+		"/Users/Santiago/Sublime/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/Santiago/Sublime/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/Santiago/Sublime/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/Santiago/Sublime/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/Santiago/Sublime/sample_app/app/views/layouts/application.html.erb",
+		"/Users/Santiago/Sublime/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/Santiago/Sublime/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/Santiago/Sublime/sample_app/app/assets/stylesheets/application.css",
+		"/Users/Santiago/Sublime/sample_app/Gemfile",
+		"/Users/Santiago/Sublime/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/Santiago/Sublime/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/Santiago/Sublime/sample_app/test/test_helper.rb",
+		"/Users/Santiago/Sublime/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/Santiago/Sublime/sample_app/layout_file",
+		"/Users/Santiago/Sublime/Tesis/app/views/users/new.html.erb",
+		"/Users/Santiago/Sublime/Tesis/db/migrate/20150806000554_create_users.rb",
+		"/Users/Santiago/Desktop/pruebaassss.rb",
+		"/Users/Santiago/Desktop/ruby.rb",
+		"/Users/Santiago/Desktop/py.py",
+		"/Users/Santiago/Sublime/TesisTwitter/config/environment.rb",
+		"/Users/Santiago/Sublime/TesisTwitter/config/Twitter.yml",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 6, Aplicaciones Web/Dia 2/Twitter/app/controllers/index.rb",
+		"/Users/Santiago/Sublime/tweets.py",
+		"/Users/Santiago/Desktop/untitled.py",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 3, BD/Dia 4/Conecta4.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/layouts/_navbar.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/assets/stylesheets/application.scss",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/show.html.erb",
+		"/Users/Santiago/Sublime/Tesis/config/routes.rb",
+		"/Users/Santiago/Sublime/Tesis/Gemfile",
+		"/Users/Santiago/Sublime/Tesis/config/apis.yaml",
+		"/Users/Santiago/Sublime/Tesis/Gemfile.lock",
+		"/Users/Santiago/Sublime/Tesis/config/initializers/koala.rb",
+		"/Users/Santiago/Sublime/Tesis/app/controllers/facebook_controller.rb",
+		"/Users/Santiago/Sublime/Tesis/app/controllers/auth_controller.rb",
+		"/Users/Santiago/Sublime/Tesis/app/views/auth/facebook.html.erb",
+		"/Users/Santiago/Sublime/Tesis/config/initializers/omniauth.rb",
+		"/Users/Santiago/Sublime/Tesis/config/initializers/facebook.rb",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 6, Aplicaciones Web/Dia 2/Twitter/config/environment.rb",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 6, Aplicaciones Web/Dia 2/Twitter/config/Twitter.yml",
+		"/Users/Santiago/Desktop/Prueba.rb",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 1, Ruby/Dia 2/Metodos Destructivos.rb",
+		"/Users/Santiago/Sublime/CodeaCamp/Semana 1, Ruby/Dia 2/Expresiones Regulares.rb",
+		"/Users/Santiago/Dropbox/Caimanes/Santiago/Semana 1, Ruby/Dia 1/Abuela.rb",
+		"/Users/Santiago/Dropbox/Caimanes/Santiago/Semana 1, Ruby/Dia 1/lee_el_error.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/shared/_error_messages.html.erb",
+		"/Users/Santiago/Dropbox/Caimanes/Santiago/Semana 1, Ruby/Dia 1/Elefantes.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/medical_histories_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/show.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/models/appointment.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/appointments/new.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/appointments/index.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/conversations_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/appointments_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/conversations/show.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/appointments/show.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/personal_data.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/db/seeds.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/patients_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/doctors_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/blood_glucose_levels_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/blood_glucose_levels/create.js.erb",
+		"/Users/Santiago/GitHub/CC-Health/config/locales/attr-es-MX.yml",
+		"/Users/Santiago/GitHub/CC-Health/config/routes.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/messages/_message.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/appointment/new.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/appointment/index.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/medical_histories/show.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/personal_data.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/welcome/index.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/welcome/tips.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/_doctors.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/db/schema.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150801011616_add_boolean_relation.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/models/doctor.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/models/doctor_and_patient.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/models/patient.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150801004707_change_app_type.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150801010220_drop_appointments.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150801010301_add_appointments.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150724214229_appointments.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150801004214_create_appointments.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/helpers/sessions_helper.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/medical_histories/edit.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/edit.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/edit.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/medical_histories/new.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/config/private_pub.yml",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/welcome_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/Gemfile",
+		"/Users/Santiago/GitHub/CC-Health/app/uploaders/avatar_uploader.rb",
+		"/Users/Santiago/GitHub/CC-Health/config/AWS.yml",
+		"/Users/Santiago/GitHub/CC-Health/config/initializers/carrierwave.rb",
+		"/Users/Santiago/GitHub/CC-Health/config/database.yml",
+		"/Users/Santiago/GitHub/CC-Health/Gemfile.lock",
+		"/Users/Santiago/GitHub/CC-Health/.gitignore",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/new.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/new.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/models/medical_history.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/_show.js.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/sessions/create.js.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/assets/stylesheets/medical_history.scss",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/medical_history.html.erb",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Santiago/GitHub/CC-Health/app/views/medical_history/show.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/views/patients/newsfeed.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/sessions_controller.rb",
+		"/Users/Santiago/GitHub/CC-Health/app/controllers/application_controller.rb",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/newsfeed.html.erb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150724234501_rename_table_message.rb",
+		"/Users/Santiago/GitHub/CC-Health/db/migrate/20150724214451_messages.rb",
+		"/Users/Santiago/GitHub/CC-Health/.ruby-version",
+		"/Users/Santiago/Desktop/Pruebas.rb",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/Users/Santiago/GitHub/CC-Health/config/initializers/wrap_parameters.rb",
+		"/Users/Santiago/Library/Application Support/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/Users/Santiago/GitHub/CC-Health/app/views/doctors/index.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"activate_fir",
+			"list",
+			"user_t",
+			"iteracion",
+			"primos",
+			"primos_antes_de",
+			"p",
+			"factores",
+			"cancion",
+			"	return\n",
+			"logout",
+			"patient",
+			"<p>",
+			"doctor_and_patient_id",
+			"doctor_and_patient",
+			"find",
+			"where",
+			"find_by",
+			"appointments",
+			"patient",
+			"Patient",
+			"patient",
+			"appointments",
+			"where",
+			"user",
+			"session",
+			"default_avatar",
+			"h4",
+			"50",
+			"medical_history",
+			"Tips<",
+			"Tips",
+			"class=\"col-md-12\"",
+			"class=\"tips",
+			"<p ",
+			"n ",
+			"<p",
+			"más",
+			"recursos_soluciones",
+			"‘",
+			"Email",
+			"patient",
+			"p>",
+			"3",
+			"Rodrigo",
+			"Pedro",
+			"pedro",
+			"Pedro",
+			"3",
+			"each",
+			"4",
+			"h2",
+			"<td>",
+			"current_user_path",
+			"current",
+			"images",
+			"false)",
+			"true)",
+			":",
+			", :value =>",
+			":value =>",
+			"Major Illness",
+			"center",
+			"md",
+			"lg",
+			"center_",
+			"doctor",
+			"<tr>",
+			"<tr",
+			"<tr ",
+			"Presion alta",
+			"render",
+			"end",
+			"\"Si\"",
+			"password",
+			"Email",
+			"email",
+			"specialty",
+			"patient",
+			"Patient",
+			"patient",
+			"No",
+			"Si",
+			"smoke",
+			"si",
+			"doctor",
+			"Filters done",
+			"patient_id",
+			"patients/1",
+			"/1",
+			"refe",
+			"patients/1",
+			"patients/2",
+			"refe",
+			"127",
+			"130",
+			"100",
+			"require_login",
+			"messages",
+			"patient",
+			"Patient",
+			"patient",
+			"license",
+			"avatar",
+			"paciente",
+			"patient",
+			"log_in",
+			"patient",
+			"user",
+			"patient",
+			"Patient",
+			"patient",
+			"avatar",
+			"phone",
+			"4",
+			"3",
+			"1",
+			"225",
+			"2",
+			"665",
+			"5",
+			"1",
+			"5",
+			"3",
+			"1",
+			"3",
+			"list",
+			"C"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/stylesheets/application.css",
+					"settings":
+					{
+						"buffer_size": 688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 205.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"create.js",
+				"app/views/sessions/create.js.erb"
+			],
+			[
+				"pa",
+				"config/initializers/wrap_parameters.rb"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true
+}
